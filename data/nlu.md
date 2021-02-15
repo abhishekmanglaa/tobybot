@@ -56,3 +56,11 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:confused
+- what is happening
+- I don't understand this
+- this is weird
+- this doesn't feel normal
+- I don't know
+-
